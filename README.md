@@ -83,7 +83,7 @@ to obtain the hash you can either get it as the data returned by the /api/bank/c
 this will return all transection along with its hash 
 
 ```http
-  POST /api/bank/getHistory
+  GET /api/bank/getHistory
 ```
 
 
